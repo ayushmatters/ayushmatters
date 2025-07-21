@@ -24,12 +24,22 @@
   </a>
 </p>
 
-<!-- Profile Views and GitHub Followers/Stars -->
+<!-- Live Profile Stats -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushmatters&color=9370DB&style=flat-square&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/ayushmatters?color=9370DB&style=flat-square&logo=github&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/ayushmatters?color=9370DB&style=flat-square&logo=github&label=STARS" />
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=ayushmatters&color=9370DB&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+  <!-- GitHub Followers -->
+  <a href="https://github.com/ayushmatters?tab=followers">
+    <img src="https://img.shields.io/github/followers/ayushmatters?color=9370DB&style=flat-square&label=FOLLOWERS" alt="GitHub Followers"/>
+  </a>
+
+  <!-- GitHub Stars -->
+  <a href="https://github.com/ayushmatters">
+    <img src="https://img.shields.io/github/stars/ayushmatters?color=9370DB&style=flat-square&label=STARS" alt="GitHub Stars"/>
+  </a>
 </div>
+
 
 ---
 
